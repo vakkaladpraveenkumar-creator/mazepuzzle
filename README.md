@@ -36,7 +36,7 @@
     <p>The App does not knowingly collect personal information from children under 13. If you believe a child has provided information, please contact us.</p>
 
     <h2>Changes to This Privacy Policy</h2>
-    <p>We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated date.</p>
+    <p>We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated date on which changes are made.</p>
 
     <h2>Contact Us</h2>
     <p>If you have any questions about this Privacy Policy, please contact us at:<br>
